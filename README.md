@@ -4,6 +4,10 @@
   <!-- Replace this comment with a screenshot or GIF of the simulator in action -->
 </p>
 
+<p align="center">
+  <a href="https://predictwc26.netlify.app/"><strong>🌐 Live Demo</strong></a>
+</p>
+
 This is a web-based FIFA World Cup 2026 simulator built using React and Vite. It runs the entire tournament — from the 12 group stages through the official Round-of-32 bracket to the final — either as a single animated play-through or as a Monte Carlo batch of up to 100,000 tournaments, then aggregates every team's odds of winning.
 
 This was an individual project created to practice front-end state management, animation, and building a probabilistic simulation engine from scratch.
