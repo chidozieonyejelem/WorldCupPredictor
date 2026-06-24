@@ -1,4 +1,4 @@
-<h1 align="center">World Cup 2026 Predictor</h1>
+<h1 align="center">World Cup 2026 Simulator</h1>
 <p align="center">
   <a href="https://predictwc26.netlify.app/"><strong>🌐 Live Demo</strong></a>
 </p>
